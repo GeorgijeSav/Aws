@@ -29,19 +29,18 @@ Relational Database Service (Amazon RDS) and Amazon Elastic Compute Cloud (Amazo
 - **Amazon CloudWatch**
 
 Which of the following are elements of an Auto Scaling group? (Choose three.)
-- desired capacity
-- minimum size
-- maximum size
+- **desired capacity**
+- **minimum size**
+- **maximum size
 
 There is an audit at your company and they need to have a log of all access to AWS resources in the account. Which of the following services can assist in providing these details? (Select the best answer.)
 - **AWS CloudTrail**
 
 
 In Elastic Load Balancing, when the load balancer detects an unhealthy target, which of the following are true? (Choose three.)
-
-- **Stops routing traffic to that target**
-- **Triggers an alarm**
-- **Resumes routing traffic to a healthy target when it detects that the target is healthy again**
+- **Stops routing traffic to that target  
+- **Resumes routing traffic when it detects that the target is healthy again  
+- **Routes traffic to a healthy target
 
 What are the three types of load balancers that Elastic Load Balancing offers?
 - **Application Load Balancer**
